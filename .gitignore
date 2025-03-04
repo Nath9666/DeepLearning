@@ -3,6 +3,6 @@ model
 *.keras
 *.zip
 *.rar
-./Dogs&Cats
+Dogs&Cats/
 ./Intel_Images
 Intel_Images
